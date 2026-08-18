@@ -127,7 +127,7 @@ CENTROIDS = {
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vT9uBtHmtYAEQTp9GqAcr9Q3bMIDDrCYl6iQtIx-6g7K8-ZiSAbpe6E3zI-s1PnqyoKNTGI5LLip83X/pub?gid=1809000969&single=true&output=csv"
+SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vT9uBtHmtYAEQTp9GqAcr9Q3bMIDDrCYl6iQtIx-6g7K8-ZiSAbpe6E3zI-s1PnqyoKNTGI5LLip83X/pubhtml?gid=1809000969&single=true"
 
 DEMO_DATA = [
     {"pays": "France", "code_iso3": "FRA", "dirigeant": "Emmanuel Macron - President", "alias": "", "photo_url": ""},
